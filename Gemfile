@@ -8,7 +8,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
-gem 'bundler', ''
+gem 'bundler', '1.13'
 
 
 group :development, :test do
